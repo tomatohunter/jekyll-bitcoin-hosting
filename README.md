@@ -1,4 +1,7 @@
 # jekyll-bitcoin-hosting
+
+[![Gitter](https://badges.gitter.im/tomatohunter/jekyll-bitcoin-hosting.svg)](https://gitter.im/tomatohunter/jekyll-bitcoin-hosting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 TomatoHunter Jekyll Bitcoin hosting knowledge base
 
 ## Knowledge base
@@ -7,9 +10,7 @@ TomatoHunter Jekyll Bitcoin hosting knowledge base
 
 ## Support
 
-* Gitter chat 
-
-[![Gitter](https://badges.gitter.im/tomatohunter/jekyll-bitcoin-hosting.svg)](https://gitter.im/tomatohunter/jekyll-bitcoin-hosting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+* [Gitter chat](https://gitter.im/tomatohunter/jekyll-bitcoin-hosting?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 * Email
 
